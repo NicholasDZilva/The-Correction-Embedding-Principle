@@ -97,10 +97,10 @@ Instead, it is a **systems architecture problem** requiring:
 
 This framework sits adjacent to and extends work in:
 
-- AI alignment research at institutions such as entity["company","OpenAI","AI research and deployment organisation"]  
-- Scalable oversight and safety systems explored by entity["company","DeepMind","AI research lab focused on general intelligence"]  
-- Academic alignment discourse published through venues such as the entity["organization","NeurIPS","Conference on Neural Information Processing Systems"]  
-- Public research dissemination platforms such as entity["organization","arXiv","open-access scientific preprint repository"]  
+- AI alignment research at institutions such as "OpenAI","AI research and deployment organisation 
+- Scalable oversight and safety systems explored by,"DeepMind","AI research lab focused on general intelligence"
+- Academic alignment discourse published through venues such as the,"NeurIPS","Conference on Neural Information Processing Systems" 
+- Public research dissemination platforms such as,"arXiv","open-access scientific preprint repository"
 
 CEP diverges from these approaches by treating alignment as a **structural control problem under incentive embedding**, rather than a reward specification or interpretability problem.
 
